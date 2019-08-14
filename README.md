@@ -30,6 +30,8 @@ pylint == 2.3.1
 ## Get Started
 To run the scraper, execute the command below on your terminal:
 ```
+git clone git@github.com:andytan0727/scrap-jobs.git
+cd scrap_jobs
 python -m scrap_jobs
 ```
 

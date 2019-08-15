@@ -29,6 +29,7 @@ pylint == 2.3.1
 
 ## Get Started
 To run the scraper, execute the command below on your terminal:
+
 ```bash
 # clone repository
 git clone git@github.com:andytan0727/scrap-jobs.git
